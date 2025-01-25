@@ -1,1 +1,3 @@
-This document was creeated to test piull requests from my computer
+This document was created to test pull requests from my computer
+
+Browser: should be first. 1
